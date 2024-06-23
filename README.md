@@ -1,4 +1,4 @@
-Glide
+leon8rt/Glide
 =====
 
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.bumptech.glide/glide/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.github.bumptech.glide/glide)
